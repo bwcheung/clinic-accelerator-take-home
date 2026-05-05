@@ -61,7 +61,7 @@ for row in data:
         "value": value,
         "focus": focus,
         "source": source,
-        "Role": role
+        "role": role
       }
     })
 

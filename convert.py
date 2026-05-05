@@ -24,9 +24,9 @@ for row in data.itertuples(index=True):
         "value": None if pd.isna(row[i+1]) else row[i+1],
         "focus": None if pd.isna(col[0]) else col[0],
         "source": None if pd.isna(col[1]) else col[1],
-        "Role": None if pd.isna(col[2]) else col[2]
+        "role": None if pd.isna(col[2]) else col[2]
       }
     })
 
 with open("output.json", "w") as file:
-    json.dump(result, file, default=str, indent=2)
+  json.dump(result, file, default=str, indent=2)

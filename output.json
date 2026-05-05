@@ -5,7 +5,7 @@
         "value": 40454.28,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -13,7 +13,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -21,7 +21,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -29,7 +29,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -37,7 +37,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -45,7 +45,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -53,7 +53,7 @@
         "value": 48464.61,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -61,7 +61,7 @@
         "value": 1.00441053,
         "focus": "Collection",
         "source": "Ratio",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -69,7 +69,7 @@
         "value": 0,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -77,7 +77,7 @@
         "value": 56578.43,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -85,7 +85,7 @@
         "value": 36,
         "focus": "Bookings",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -93,7 +93,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "Form",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -101,7 +101,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -109,7 +109,7 @@
         "value": 42,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -117,7 +117,7 @@
         "value": 50.66666667,
         "focus": "Marketing",
         "source": "GS",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -125,7 +125,7 @@
         "value": 377,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -133,7 +133,7 @@
         "value": 7.440789474,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -141,7 +141,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "NAR",
-        "Role": "Nicole"
+        "role": "Nicole"
       }
     },
     {
@@ -149,7 +149,7 @@
         "value": 498,
         "focus": "Treatment Plan",
         "source": "Jane",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -157,7 +157,7 @@
         "value": 100,
         "focus": "Treatment Plan",
         "source": "Jane",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -165,7 +165,7 @@
         "value": 14,
         "focus": "New Clients",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -173,7 +173,7 @@
         "value": 0,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J "
+        "role": "J "
       }
     },
     {
@@ -181,7 +181,7 @@
         "value": 0,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -189,7 +189,7 @@
         "value": null,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -197,7 +197,7 @@
         "value": 0.1707317073,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -205,7 +205,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -213,7 +213,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Tracker",
-        "Role": "Nicole"
+        "role": "Nicole"
       }
     },
     {
@@ -221,7 +221,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "Facebook",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -229,7 +229,7 @@
         "value": 1227,
         "focus": "Marketing",
         "source": "Google",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -237,7 +237,7 @@
         "value": 255,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -245,7 +245,7 @@
         "value": 17,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -253,7 +253,7 @@
         "value": 0.93,
         "focus": "Answer",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -261,7 +261,7 @@
         "value": 0.69,
         "focus": "Book",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -269,7 +269,7 @@
         "value": 26,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -277,7 +277,7 @@
         "value": 8,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -285,7 +285,7 @@
         "value": 0,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -293,7 +293,7 @@
         "value": 39,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -301,7 +301,7 @@
         "value": 0.9285714286,
         "focus": "Tx Plan",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -309,7 +309,7 @@
         "value": "2.87",
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -317,7 +317,7 @@
         "value": 0.5357142857,
         "focus": "Tx Plan",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -325,7 +325,7 @@
         "value": 20,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -333,7 +333,7 @@
         "value": 0.4761904762,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -341,7 +341,7 @@
         "value": null,
         "focus": "Satisfaction",
         "source": "NPS ",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -349,7 +349,7 @@
         "value": null,
         "focus": "Satisfaction",
         "source": "Formula",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -357,7 +357,7 @@
         "value": null,
         "focus": "Rapport",
         "source": "Tracker",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -365,7 +365,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "Tracker",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -373,7 +373,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -381,7 +381,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -389,7 +389,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -397,7 +397,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -405,7 +405,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -413,7 +413,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -421,7 +421,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -429,7 +429,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -437,7 +437,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -445,7 +445,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -453,7 +453,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -461,7 +461,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -469,7 +469,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -477,7 +477,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -485,7 +485,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -493,7 +493,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -501,7 +501,7 @@
         "value": null,
         "focus": "Beth",
         "source": "OBJECTIONS",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -509,7 +509,7 @@
         "value": null,
         "focus": "Beth  ",
         "source": "HOOKS",
-        "Role": "DISOVERY calls "
+        "role": "DISOVERY calls "
       }
     },
     {
@@ -517,7 +517,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -525,7 +525,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -533,7 +533,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -541,7 +541,7 @@
         "value": null,
         "focus": "Tracy+Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -549,7 +549,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": "innocare"
+        "role": "innocare"
       }
     },
     {
@@ -557,7 +557,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -565,7 +565,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -573,7 +573,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -581,7 +581,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -589,7 +589,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -597,7 +597,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -605,7 +605,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -613,7 +613,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -621,7 +621,7 @@
         "value": null,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -629,7 +629,7 @@
         "value": null,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -637,7 +637,7 @@
         "value": null,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -645,7 +645,7 @@
         "value": null,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -653,7 +653,7 @@
         "value": null,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -661,7 +661,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -669,7 +669,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Estimate",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -677,7 +677,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -685,7 +685,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -693,7 +693,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -701,7 +701,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -709,7 +709,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -717,7 +717,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -725,7 +725,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -733,7 +733,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -741,7 +741,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -749,7 +749,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -757,7 +757,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -765,7 +765,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -773,7 +773,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -781,7 +781,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -789,7 +789,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -797,7 +797,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -805,7 +805,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -813,7 +813,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -821,7 +821,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -829,7 +829,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -837,7 +837,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -845,7 +845,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -853,7 +853,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -861,7 +861,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -869,7 +869,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -877,7 +877,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -885,7 +885,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -893,7 +893,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -901,7 +901,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -909,7 +909,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -917,7 +917,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -925,7 +925,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -933,7 +933,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -941,7 +941,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -949,7 +949,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -957,7 +957,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -965,7 +965,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -973,7 +973,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -981,7 +981,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -989,7 +989,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": null
+        "role": null
       }
     }
   ],
@@ -999,7 +999,7 @@
         "value": 42360.64,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1007,7 +1007,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1015,7 +1015,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1023,7 +1023,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1031,7 +1031,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1039,7 +1039,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1047,7 +1047,7 @@
         "value": 34022.04,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1055,7 +1055,7 @@
         "value": 0.9083875359,
         "focus": "Collection",
         "source": "Ratio",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1063,7 +1063,7 @@
         "value": 182,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "value": 65386.72,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1079,7 +1079,7 @@
         "value": 45,
         "focus": "Bookings",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1087,7 +1087,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "Form",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1095,7 +1095,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1103,7 +1103,7 @@
         "value": 54,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1111,7 +1111,7 @@
         "value": 55,
         "focus": "Marketing",
         "source": "GS",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1119,7 +1119,7 @@
         "value": 377,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1127,7 +1127,7 @@
         "value": 6.854545455,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1135,7 +1135,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "NAR",
-        "Role": "Nicole"
+        "role": "Nicole"
       }
     },
     {
@@ -1143,7 +1143,7 @@
         "value": 669,
         "focus": "Treatment Plan",
         "source": "Jane",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1151,7 +1151,7 @@
         "value": 129,
         "focus": "Treatment Plan",
         "source": "Jane",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1159,7 +1159,7 @@
         "value": 8,
         "focus": "New Clients",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1167,7 +1167,7 @@
         "value": 0,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J "
+        "role": "J "
       }
     },
     {
@@ -1175,7 +1175,7 @@
         "value": 0,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1183,7 +1183,7 @@
         "value": null,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1191,7 +1191,7 @@
         "value": 0.1149897331,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1199,7 +1199,7 @@
         "value": 113,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1207,7 +1207,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Tracker",
-        "Role": "Nicole"
+        "role": "Nicole"
       }
     },
     {
@@ -1215,7 +1215,7 @@
         "value": 0,
         "focus": "Marketing",
         "source": "Facebook",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1223,7 +1223,7 @@
         "value": 1224,
         "focus": "Marketing",
         "source": "Google",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1231,7 +1231,7 @@
         "value": 281,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1239,7 +1239,7 @@
         "value": 15,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1247,7 +1247,7 @@
         "value": 0.94,
         "focus": "Answer",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1255,7 +1255,7 @@
         "value": 0.73,
         "focus": "Book",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1263,7 +1263,7 @@
         "value": 26,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1271,7 +1271,7 @@
         "value": 7,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1279,7 +1279,7 @@
         "value": 0,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1287,7 +1287,7 @@
         "value": 56,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1295,7 +1295,7 @@
         "value": 1.037037037,
         "focus": "Tx Plan",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1303,7 +1303,7 @@
         "value": "3.26",
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1311,7 +1311,7 @@
         "value": 0.5433526012,
         "focus": "Tx Plan",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1319,7 +1319,7 @@
         "value": 30,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1327,7 +1327,7 @@
         "value": 0.5555555556,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1335,7 +1335,7 @@
         "value": null,
         "focus": "Satisfaction",
         "source": "NPS ",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -1343,7 +1343,7 @@
         "value": null,
         "focus": "Satisfaction",
         "source": "Formula",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -1351,7 +1351,7 @@
         "value": null,
         "focus": "Rapport",
         "source": "Tracker",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -1359,7 +1359,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "Tracker",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -1367,7 +1367,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1375,7 +1375,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1383,7 +1383,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -1391,7 +1391,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -1399,7 +1399,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1407,7 +1407,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1415,7 +1415,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1423,7 +1423,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1431,7 +1431,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1439,7 +1439,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1447,7 +1447,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1455,7 +1455,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1463,7 +1463,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1471,7 +1471,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1479,7 +1479,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1487,7 +1487,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1495,7 +1495,7 @@
         "value": null,
         "focus": "Beth",
         "source": "OBJECTIONS",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1503,7 +1503,7 @@
         "value": null,
         "focus": "Beth  ",
         "source": "HOOKS",
-        "Role": "DISOVERY calls "
+        "role": "DISOVERY calls "
       }
     },
     {
@@ -1511,7 +1511,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1519,7 +1519,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1527,7 +1527,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1535,7 +1535,7 @@
         "value": null,
         "focus": "Tracy+Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1543,7 +1543,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": "innocare"
+        "role": "innocare"
       }
     },
     {
@@ -1551,7 +1551,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1559,7 +1559,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1567,7 +1567,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1575,7 +1575,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1583,7 +1583,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1591,7 +1591,7 @@
         "value": 36099.38,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1599,7 +1599,7 @@
         "value": 47,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1607,7 +1607,7 @@
         "value": 319,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1615,7 +1615,7 @@
         "value": 10,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1623,7 +1623,7 @@
         "value": 0.2127659574,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1631,7 +1631,7 @@
         "value": 37,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1639,7 +1639,7 @@
         "value": 5,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1647,7 +1647,7 @@
         "value": 5,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1655,7 +1655,7 @@
         "value": 6.434782609,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1663,7 +1663,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Estimate",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1671,7 +1671,7 @@
         "value": 290.25,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1679,7 +1679,7 @@
         "value": 172.5,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1687,7 +1687,7 @@
         "value": 166.75,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1695,7 +1695,7 @@
         "value": 382,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1703,7 +1703,7 @@
         "value": 0.5745047373,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1711,7 +1711,7 @@
         "value": 0.9666666667,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1719,7 +1719,7 @@
         "value": 30.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1727,7 +1727,7 @@
         "value": 0.6382978723,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1735,7 +1735,7 @@
         "value": 355,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1743,7 +1743,7 @@
         "value": 1,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1751,7 +1751,7 @@
         "value": 2,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1759,7 +1759,7 @@
         "value": 2.333333333,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1767,7 +1767,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1775,7 +1775,7 @@
         "value": 3.75,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1783,7 +1783,7 @@
         "value": 4,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1791,7 +1791,7 @@
         "value": 3,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1799,7 +1799,7 @@
         "value": 1.066666667,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1807,7 +1807,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1815,7 +1815,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1823,7 +1823,7 @@
         "value": 4458.9,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1831,7 +1831,7 @@
         "value": 4,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1839,7 +1839,7 @@
         "value": 48,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1847,7 +1847,7 @@
         "value": 10.2,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1855,7 +1855,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1863,7 +1863,7 @@
         "value": 28.25,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1871,7 +1871,7 @@
         "value": 25.25,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1879,7 +1879,7 @@
         "value": 55,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1887,7 +1887,7 @@
         "value": 0.8938053097,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1895,7 +1895,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1903,7 +1903,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1911,7 +1911,7 @@
         "value": 2355,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1919,7 +1919,7 @@
         "value": 2,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1927,7 +1927,7 @@
         "value": 17,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1935,7 +1935,7 @@
         "value": 1.5,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -1943,7 +1943,7 @@
         "value": 6.522522523,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1951,7 +1951,7 @@
         "value": 0.8449922379,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1959,7 +1959,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -1967,7 +1967,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1975,7 +1975,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -1983,7 +1983,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": null
+        "role": null
       }
     }
   ],
@@ -1993,7 +1993,7 @@
         "value": 39202.17,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2001,7 +2001,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2009,7 +2009,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2017,7 +2017,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2025,7 +2025,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2033,7 +2033,7 @@
         "value": null,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2041,7 +2041,7 @@
         "value": 40068.6,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2049,7 +2049,7 @@
         "value": 1.022101583,
         "focus": "Collection",
         "source": "Ratio",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2057,7 +2057,7 @@
         "value": 60,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2065,7 +2065,7 @@
         "value": 57239.65,
         "focus": "Collection",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2073,7 +2073,7 @@
         "value": 43,
         "focus": "Bookings",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2081,7 +2081,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "Form",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2089,7 +2089,7 @@
         "value": null,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2097,7 +2097,7 @@
         "value": 56,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2105,7 +2105,7 @@
         "value": 56,
         "focus": "Marketing",
         "source": "GS",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2113,7 +2113,7 @@
         "value": 340,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2121,7 +2121,7 @@
         "value": 6.071428571,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2129,7 +2129,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "NAR",
-        "Role": "Nicole"
+        "role": "Nicole"
       }
     },
     {
@@ -2137,7 +2137,7 @@
         "value": 599,
         "focus": "Treatment Plan",
         "source": "Jane",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2145,7 +2145,7 @@
         "value": 44,
         "focus": "Treatment Plan",
         "source": "Jane",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2153,7 +2153,7 @@
         "value": 9,
         "focus": "New Clients",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2161,7 +2161,7 @@
         "value": 0,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J "
+        "role": "J "
       }
     },
     {
@@ -2169,7 +2169,7 @@
         "value": 0,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2177,7 +2177,7 @@
         "value": null,
         "focus": "Online",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2185,7 +2185,7 @@
         "value": 0.1236203091,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2193,7 +2193,7 @@
         "value": 103,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2201,7 +2201,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Tracker",
-        "Role": "Nicole"
+        "role": "Nicole"
       }
     },
     {
@@ -2209,7 +2209,7 @@
         "value": 0,
         "focus": "Marketing",
         "source": "Facebook",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2217,7 +2217,7 @@
         "value": 1217,
         "focus": "Marketing",
         "source": "Google",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2225,7 +2225,7 @@
         "value": 282,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2233,7 +2233,7 @@
         "value": 16,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2241,7 +2241,7 @@
         "value": 0.94,
         "focus": "Answer",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2249,7 +2249,7 @@
         "value": 0.78,
         "focus": "Book",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2257,7 +2257,7 @@
         "value": 33,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2265,7 +2265,7 @@
         "value": 7,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2273,7 +2273,7 @@
         "value": 2,
         "focus": "Phone",
         "source": "CallHero",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2281,7 +2281,7 @@
         "value": 56,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2289,7 +2289,7 @@
         "value": 1,
         "focus": "Tx Plan",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2297,7 +2297,7 @@
         "value": "3.35",
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2305,7 +2305,7 @@
         "value": 0.5303867403,
         "focus": "Tx Plan",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2313,7 +2313,7 @@
         "value": 38,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2321,7 +2321,7 @@
         "value": 0.6785714286,
         "focus": "Tx Plan",
         "source": "NAR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2329,7 +2329,7 @@
         "value": null,
         "focus": "Satisfaction",
         "source": "NPS ",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -2337,7 +2337,7 @@
         "value": null,
         "focus": "Satisfaction",
         "source": "Formula",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -2345,7 +2345,7 @@
         "value": null,
         "focus": "Rapport",
         "source": "Tracker",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -2353,7 +2353,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "Tracker",
-        "Role": "BETH"
+        "role": "BETH"
       }
     },
     {
@@ -2361,7 +2361,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2369,7 +2369,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2377,7 +2377,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -2385,7 +2385,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -2393,7 +2393,7 @@
         "value": null,
         "focus": null,
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2401,7 +2401,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2409,7 +2409,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2417,7 +2417,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2425,7 +2425,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2433,7 +2433,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2441,7 +2441,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2449,7 +2449,7 @@
         "value": null,
         "focus": "Tracy",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2457,7 +2457,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2465,7 +2465,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2473,7 +2473,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2481,7 +2481,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2489,7 +2489,7 @@
         "value": null,
         "focus": "Beth",
         "source": "OBJECTIONS",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2497,7 +2497,7 @@
         "value": null,
         "focus": "Beth  ",
         "source": "HOOKS",
-        "Role": "DISOVERY calls "
+        "role": "DISOVERY calls "
       }
     },
     {
@@ -2505,7 +2505,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2513,7 +2513,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2521,7 +2521,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2529,7 +2529,7 @@
         "value": null,
         "focus": "Tracy+Paula",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2537,7 +2537,7 @@
         "value": null,
         "focus": "Paula",
         "source": null,
-        "Role": "innocare"
+        "role": "innocare"
       }
     },
     {
@@ -2545,7 +2545,7 @@
         "value": null,
         "focus": "Beth",
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2553,7 +2553,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2561,7 +2561,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2569,7 +2569,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2577,7 +2577,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2585,7 +2585,7 @@
         "value": 30394,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2593,7 +2593,7 @@
         "value": 45,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2601,7 +2601,7 @@
         "value": 273,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2609,7 +2609,7 @@
         "value": 11,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2617,7 +2617,7 @@
         "value": 0.2444444444,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2625,7 +2625,7 @@
         "value": 37,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2633,7 +2633,7 @@
         "value": 2,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2641,7 +2641,7 @@
         "value": 6,
         "focus": "AHS",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2649,7 +2649,7 @@
         "value": 6.066666667,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2657,7 +2657,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Estimate",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2665,7 +2665,7 @@
         "value": 273.5,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2673,7 +2673,7 @@
         "value": 139.25,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2681,7 +2681,7 @@
         "value": 138,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2689,7 +2689,7 @@
         "value": 329,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2697,7 +2697,7 @@
         "value": 0.5045703839,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2705,7 +2705,7 @@
         "value": 0.9910233393,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2713,7 +2713,7 @@
         "value": 38.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2721,7 +2721,7 @@
         "value": 0.8444444444,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2729,7 +2729,7 @@
         "value": 775.5,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2737,7 +2737,7 @@
         "value": 2,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2745,7 +2745,7 @@
         "value": 5,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2753,7 +2753,7 @@
         "value": 2.5,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2761,7 +2761,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2769,7 +2769,7 @@
         "value": 8,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2777,7 +2777,7 @@
         "value": 8.75,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2785,7 +2785,7 @@
         "value": 7,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2793,7 +2793,7 @@
         "value": 1.09375,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2801,7 +2801,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2809,7 +2809,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2817,7 +2817,7 @@
         "value": 5649.9,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2825,7 +2825,7 @@
         "value": 6,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2833,7 +2833,7 @@
         "value": 54,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2841,7 +2841,7 @@
         "value": 9,
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2849,7 +2849,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2857,7 +2857,7 @@
         "value": 35.25,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2865,7 +2865,7 @@
         "value": 30.75,
         "focus": "Caseload",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2873,7 +2873,7 @@
         "value": 62,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2881,7 +2881,7 @@
         "value": 0.8723404255,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2889,7 +2889,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2897,7 +2897,7 @@
         "value": 0.0,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2905,7 +2905,7 @@
         "value": 1215,
         "focus": "Financial",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2913,7 +2913,7 @@
         "value": 4,
         "focus": "Marketing",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2921,7 +2921,7 @@
         "value": 6,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2929,7 +2929,7 @@
         "value": "#REF!",
         "focus": "Commitment",
         "source": "Formula",
-        "Role": "J"
+        "role": "J"
       }
     },
     {
@@ -2937,7 +2937,7 @@
         "value": 5.929824561,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2945,7 +2945,7 @@
         "value": 0.8235536031,
         "focus": null,
         "source": null,
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2953,7 +2953,7 @@
         "value": null,
         "focus": null,
         "source": null,
-        "Role": " "
+        "role": " "
       }
     },
     {
@@ -2961,7 +2961,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2969,7 +2969,7 @@
         "value": null,
         "focus": "Commitment",
         "source": "EMR",
-        "Role": null
+        "role": null
       }
     },
     {
@@ -2977,7 +2977,7 @@
         "value": null,
         "focus": "Caseload",
         "source": "Formula",
-        "Role": null
+        "role": null
       }
     }
   ]
