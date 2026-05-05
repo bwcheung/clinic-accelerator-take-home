@@ -1,5 +1,7 @@
 # Clinic Accelerator Take Home Assignment
 
+note: I added a convert2 as a sample of using only openpyxl to preserve some cell formatting. 
+
 ## How to run (Python 3.13.9)
   1. clone repo and cd into the folder using a termainl
   2. run in terminal: pip install -r requirements.txt
