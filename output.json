@@ -1,0 +1,2984 @@
+{
+  "February 16, 2026": [
+    {
+      "Total Revenue \n- All Services": {
+        "value": 40454.28,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Product Revenue - All Services": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Theraguns Sold (#)": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pillows": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Custom Knee Brace": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Orthotics": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Payments - All Services": {
+        "value": 48464.61,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Revenue Collected (4 wk avg)": {
+        "value": 1.00441053,
+        "focus": "Collection",
+        "source": "Ratio",
+        "Role": "J"
+      }
+    },
+    {
+      "AR > 90 days": {
+        "value": 0,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total AR": {
+        "value": 56578.43,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Online Bookings Via Jane": {
+        "value": 36,
+        "focus": "Bookings",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Consult Requests": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "Form",
+        "Role": null
+      }
+    },
+    {
+      "Consults turned Ax": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Total Ax \n- All Services": {
+        "value": 42,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Ax 4 Week Avg": {
+        "value": 50.66666667,
+        "focus": "Marketing",
+        "source": "GS",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Rx (Clinic Wide)": {
+        "value": 377,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Clinic PVA": {
+        "value": 7.440789474,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "CROSS REFERRAL AX (Total)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "NAR",
+        "Role": "Nicole"
+      }
+    },
+    {
+      "Submitted\n": {
+        "value": 498,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "Role": "J"
+      }
+    },
+    {
+      "Unsubmitted": {
+        "value": 100,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled \n Total Ax": {
+        "value": 14,
+        "focus": "New Clients",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled \nAx (Online)": {
+        "value": 0,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J "
+      }
+    },
+    {
+      "Cancelled Ax Online %": {
+        "value": 0,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled Online Ax WINBACK": {
+        "value": null,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancellation %": {
+        "value": 0.1707317073,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Fall Offs\n(Total)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Fall Off % Called": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Tracker",
+        "Role": "Nicole"
+      }
+    },
+    {
+      "FB Reviews": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "Facebook",
+        "Role": "J"
+      }
+    },
+    {
+      "Google Reviews": {
+        "value": 1227,
+        "focus": "Marketing",
+        "source": "Google",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Calls (5530)": {
+        "value": 255,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Missed Calls": {
+        "value": 17,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Answer Rate": {
+        "value": 0.93,
+        "focus": "Answer",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Booking Rate": {
+        "value": 0.69,
+        "focus": "Book",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "NBO": {
+        "value": 26,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "DNB": {
+        "value": 8,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Winback (Ax Only)": {
+        "value": 0,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "NAR Collected at Ax": {
+        "value": 39,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "NAR % Collected at Ax": {
+        "value": 0.9285714286,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "Average \nPrescribed": {
+        "value": "2.87",
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "Booked:Prescribed % \n(Total)": {
+        "value": 0.5357142857,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Tx Plan Given": {
+        "value": 20,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "% Tx Plan Used": {
+        "value": 0.4761904762,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "NPS Collected at Ax": {
+        "value": null,
+        "focus": "Satisfaction",
+        "source": "NPS ",
+        "Role": "BETH"
+      }
+    },
+    {
+      "NPS % Collected at Ax": {
+        "value": null,
+        "focus": "Satisfaction",
+        "source": "Formula",
+        "Role": "BETH"
+      }
+    },
+    {
+      "Follow-up \nwon": {
+        "value": null,
+        "focus": "Rapport",
+        "source": "Tracker",
+        "Role": "BETH"
+      }
+    },
+    {
+      "Dropped Clients\nwon": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "Tracker",
+        "Role": "BETH"
+      }
+    },
+    {
+      "NAR Submission": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "NAR Percentage": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Shockwave Alone": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": " "
+      }
+    },
+    {
+      "Shockwave + PT": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": " "
+      }
+    },
+    {
+      "Total Shockwave Revenue": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Total Patient Database": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Total Active Patients": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Calls made by Other Clinicians": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "AHS active clients ": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Total Active Called": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Booked": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD faxees sent": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD's called": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Emails Sent": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Open Rate": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Email Responses": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Beth Outgoing Calls": {
+        "value": null,
+        "focus": "Beth",
+        "source": "OBJECTIONS",
+        "Role": null
+      }
+    },
+    {
+      "Beth incoming Calls": {
+        "value": null,
+        "focus": "Beth  ",
+        "source": "HOOKS",
+        "Role": "DISOVERY calls "
+      }
+    },
+    {
+      "Total Calls": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Call Booked": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Conversion": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Call Delivered": {
+        "value": null,
+        "focus": "Tracy+Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Paid Virtual Delivered": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": "innocare"
+      }
+    },
+    {
+      "Virtual Revenue": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "$$/Visit": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Conversion.1": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "In-Person Visit": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD F/U post  VV tx calls": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "PT Total Revenue": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Ax": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Tx": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Ax": {
+        "value": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "% of Total Ax (AHS)": {
+        "value": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Tx (Total)": {
+        "value": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS \nAx (Hip&Knee Class)": {
+        "value": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Tx (Hip&Knee Class)": {
+        "value": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg)": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Available appts": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Estimate",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total Available Hours \n(Total)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total Available Hours \n(PT only)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total BOOKED hours": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Arrived appts": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization (With Kines)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization (Without Kines)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "PT TP Given": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "RMT Total Revenue": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT \nAx": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT \nTx": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).1": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Hours Available": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT BOOKED hours": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Arrived slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT TP Given": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization.1": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "CHIRO \nTotal Revenue": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO\nAx": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO\nTx": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).2": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Chiro Hours Available": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Chiro BOOKED hours": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO Arrived slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization.1": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO TP Given": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization.2": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Pelvic Health\nTotal Revenue": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pelvic Health\nAx": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pelvic Health\nTx": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).3": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "True PVA Average": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Utilization.2": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "PVA AVERAGE": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": " "
+      }
+    },
+    {
+      "Pelvic Health Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Pelvic Health Arrived slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Utilization.3": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": null
+      }
+    }
+  ],
+  "February 09, 2026": [
+    {
+      "Total Revenue \n- All Services": {
+        "value": 42360.64,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Product Revenue - All Services": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Theraguns Sold (#)": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pillows": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Custom Knee Brace": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Orthotics": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Payments - All Services": {
+        "value": 34022.04,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Revenue Collected (4 wk avg)": {
+        "value": 0.9083875359,
+        "focus": "Collection",
+        "source": "Ratio",
+        "Role": "J"
+      }
+    },
+    {
+      "AR > 90 days": {
+        "value": 182,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total AR": {
+        "value": 65386.72,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Online Bookings Via Jane": {
+        "value": 45,
+        "focus": "Bookings",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Consult Requests": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "Form",
+        "Role": null
+      }
+    },
+    {
+      "Consults turned Ax": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Total Ax \n- All Services": {
+        "value": 54,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Ax 4 Week Avg": {
+        "value": 55,
+        "focus": "Marketing",
+        "source": "GS",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Rx (Clinic Wide)": {
+        "value": 377,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Clinic PVA": {
+        "value": 6.854545455,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "CROSS REFERRAL AX (Total)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "NAR",
+        "Role": "Nicole"
+      }
+    },
+    {
+      "Submitted\n": {
+        "value": 669,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "Role": "J"
+      }
+    },
+    {
+      "Unsubmitted": {
+        "value": 129,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled \n Total Ax": {
+        "value": 8,
+        "focus": "New Clients",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled \nAx (Online)": {
+        "value": 0,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J "
+      }
+    },
+    {
+      "Cancelled Ax Online %": {
+        "value": 0,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled Online Ax WINBACK": {
+        "value": null,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancellation %": {
+        "value": 0.1149897331,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Fall Offs\n(Total)": {
+        "value": 113,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Fall Off % Called": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Tracker",
+        "Role": "Nicole"
+      }
+    },
+    {
+      "FB Reviews": {
+        "value": 0,
+        "focus": "Marketing",
+        "source": "Facebook",
+        "Role": "J"
+      }
+    },
+    {
+      "Google Reviews": {
+        "value": 1224,
+        "focus": "Marketing",
+        "source": "Google",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Calls (5530)": {
+        "value": 281,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Missed Calls": {
+        "value": 15,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Answer Rate": {
+        "value": 0.94,
+        "focus": "Answer",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Booking Rate": {
+        "value": 0.73,
+        "focus": "Book",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "NBO": {
+        "value": 26,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "DNB": {
+        "value": 7,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Winback (Ax Only)": {
+        "value": 0,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "NAR Collected at Ax": {
+        "value": 56,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "NAR % Collected at Ax": {
+        "value": 1.037037037,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "Average \nPrescribed": {
+        "value": "3.26",
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "Booked:Prescribed % \n(Total)": {
+        "value": 0.5433526012,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Tx Plan Given": {
+        "value": 30,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "% Tx Plan Used": {
+        "value": 0.5555555556,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "NPS Collected at Ax": {
+        "value": null,
+        "focus": "Satisfaction",
+        "source": "NPS ",
+        "Role": "BETH"
+      }
+    },
+    {
+      "NPS % Collected at Ax": {
+        "value": null,
+        "focus": "Satisfaction",
+        "source": "Formula",
+        "Role": "BETH"
+      }
+    },
+    {
+      "Follow-up \nwon": {
+        "value": null,
+        "focus": "Rapport",
+        "source": "Tracker",
+        "Role": "BETH"
+      }
+    },
+    {
+      "Dropped Clients\nwon": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "Tracker",
+        "Role": "BETH"
+      }
+    },
+    {
+      "NAR Submission": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "NAR Percentage": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Shockwave Alone": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": " "
+      }
+    },
+    {
+      "Shockwave + PT": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": " "
+      }
+    },
+    {
+      "Total Shockwave Revenue": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Total Patient Database": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Total Active Patients": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Calls made by Other Clinicians": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "AHS active clients ": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Total Active Called": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Booked": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD faxees sent": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD's called": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Emails Sent": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Open Rate": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Email Responses": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Beth Outgoing Calls": {
+        "value": null,
+        "focus": "Beth",
+        "source": "OBJECTIONS",
+        "Role": null
+      }
+    },
+    {
+      "Beth incoming Calls": {
+        "value": null,
+        "focus": "Beth  ",
+        "source": "HOOKS",
+        "Role": "DISOVERY calls "
+      }
+    },
+    {
+      "Total Calls": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Call Booked": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Conversion": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Call Delivered": {
+        "value": null,
+        "focus": "Tracy+Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Paid Virtual Delivered": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": "innocare"
+      }
+    },
+    {
+      "Virtual Revenue": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "$$/Visit": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Conversion.1": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "In-Person Visit": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD F/U post  VV tx calls": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "PT Total Revenue": {
+        "value": 36099.38,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Ax": {
+        "value": 47,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Tx": {
+        "value": 319,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Ax": {
+        "value": 10,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "% of Total Ax (AHS)": {
+        "value": 0.2127659574,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Tx (Total)": {
+        "value": 37,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS \nAx (Hip&Knee Class)": {
+        "value": 5,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Tx (Hip&Knee Class)": {
+        "value": 5,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg)": {
+        "value": 6.434782609,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Available appts": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Estimate",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total Available Hours \n(Total)": {
+        "value": 290.25,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total Available Hours \n(PT only)": {
+        "value": 172.5,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total BOOKED hours": {
+        "value": 166.75,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Arrived appts": {
+        "value": 382,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization (With Kines)": {
+        "value": 0.5745047373,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization (Without Kines)": {
+        "value": 0.9666666667,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "PT TP Given": {
+        "value": 30.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization": {
+        "value": 0.6382978723,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "RMT Total Revenue": {
+        "value": 355,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT \nAx": {
+        "value": 1,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT \nTx": {
+        "value": 2,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).1": {
+        "value": 2.333333333,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Hours Available": {
+        "value": 3.75,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT BOOKED hours": {
+        "value": 4,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Arrived slots": {
+        "value": 3,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization": {
+        "value": 1.066666667,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT TP Given": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization.1": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "CHIRO \nTotal Revenue": {
+        "value": 4458.9,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO\nAx": {
+        "value": 4,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO\nTx": {
+        "value": 48,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).2": {
+        "value": 10.2,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Chiro Hours Available": {
+        "value": 28.25,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Chiro BOOKED hours": {
+        "value": 25.25,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO Arrived slots": {
+        "value": 55,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization.1": {
+        "value": 0.8938053097,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO TP Given": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization.2": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Pelvic Health\nTotal Revenue": {
+        "value": 2355,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pelvic Health\nAx": {
+        "value": 2,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pelvic Health\nTx": {
+        "value": 17,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).3": {
+        "value": 1.5,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "True PVA Average": {
+        "value": 6.522522523,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Utilization.2": {
+        "value": 0.8449922379,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "PVA AVERAGE": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": " "
+      }
+    },
+    {
+      "Pelvic Health Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Pelvic Health Arrived slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Utilization.3": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": null
+      }
+    }
+  ],
+  "February 02, 2026": [
+    {
+      "Total Revenue \n- All Services": {
+        "value": 39202.17,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Product Revenue - All Services": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Theraguns Sold (#)": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pillows": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Custom Knee Brace": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Orthotics": {
+        "value": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Payments - All Services": {
+        "value": 40068.6,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Revenue Collected (4 wk avg)": {
+        "value": 1.022101583,
+        "focus": "Collection",
+        "source": "Ratio",
+        "Role": "J"
+      }
+    },
+    {
+      "AR > 90 days": {
+        "value": 60,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Total AR": {
+        "value": 57239.65,
+        "focus": "Collection",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Online Bookings Via Jane": {
+        "value": 43,
+        "focus": "Bookings",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Consult Requests": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "Form",
+        "Role": null
+      }
+    },
+    {
+      "Consults turned Ax": {
+        "value": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Total Ax \n- All Services": {
+        "value": 56,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Ax 4 Week Avg": {
+        "value": 56,
+        "focus": "Marketing",
+        "source": "GS",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Rx (Clinic Wide)": {
+        "value": 340,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Clinic PVA": {
+        "value": 6.071428571,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "CROSS REFERRAL AX (Total)": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "NAR",
+        "Role": "Nicole"
+      }
+    },
+    {
+      "Submitted\n": {
+        "value": 599,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "Role": "J"
+      }
+    },
+    {
+      "Unsubmitted": {
+        "value": 44,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled \n Total Ax": {
+        "value": 9,
+        "focus": "New Clients",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled \nAx (Online)": {
+        "value": 0,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J "
+      }
+    },
+    {
+      "Cancelled Ax Online %": {
+        "value": 0,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancelled Online Ax WINBACK": {
+        "value": null,
+        "focus": "Online",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Cancellation %": {
+        "value": 0.1236203091,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Fall Offs\n(Total)": {
+        "value": 103,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Fall Off % Called": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Tracker",
+        "Role": "Nicole"
+      }
+    },
+    {
+      "FB Reviews": {
+        "value": 0,
+        "focus": "Marketing",
+        "source": "Facebook",
+        "Role": "J"
+      }
+    },
+    {
+      "Google Reviews": {
+        "value": 1217,
+        "focus": "Marketing",
+        "source": "Google",
+        "Role": "J"
+      }
+    },
+    {
+      "Total Calls (5530)": {
+        "value": 282,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Missed Calls": {
+        "value": 16,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Answer Rate": {
+        "value": 0.94,
+        "focus": "Answer",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Booking Rate": {
+        "value": 0.78,
+        "focus": "Book",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "NBO": {
+        "value": 33,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "DNB": {
+        "value": 7,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "Winback (Ax Only)": {
+        "value": 2,
+        "focus": "Phone",
+        "source": "CallHero",
+        "Role": "J"
+      }
+    },
+    {
+      "NAR Collected at Ax": {
+        "value": 56,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "NAR % Collected at Ax": {
+        "value": 1,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "Average \nPrescribed": {
+        "value": "3.35",
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "Booked:Prescribed % \n(Total)": {
+        "value": 0.5303867403,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "# of Tx Plan Given": {
+        "value": 38,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "% Tx Plan Used": {
+        "value": 0.6785714286,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "Role": "J"
+      }
+    },
+    {
+      "NPS Collected at Ax": {
+        "value": null,
+        "focus": "Satisfaction",
+        "source": "NPS ",
+        "Role": "BETH"
+      }
+    },
+    {
+      "NPS % Collected at Ax": {
+        "value": null,
+        "focus": "Satisfaction",
+        "source": "Formula",
+        "Role": "BETH"
+      }
+    },
+    {
+      "Follow-up \nwon": {
+        "value": null,
+        "focus": "Rapport",
+        "source": "Tracker",
+        "Role": "BETH"
+      }
+    },
+    {
+      "Dropped Clients\nwon": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "Tracker",
+        "Role": "BETH"
+      }
+    },
+    {
+      "NAR Submission": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "NAR Percentage": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Shockwave Alone": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": " "
+      }
+    },
+    {
+      "Shockwave + PT": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": " "
+      }
+    },
+    {
+      "Total Shockwave Revenue": {
+        "value": null,
+        "focus": null,
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Total Patient Database": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Total Active Patients": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Calls made by Other Clinicians": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "AHS active clients ": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Total Active Called": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Booked": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD faxees sent": {
+        "value": null,
+        "focus": "Tracy",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD's called": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Emails Sent": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Open Rate": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Email Responses": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Beth Outgoing Calls": {
+        "value": null,
+        "focus": "Beth",
+        "source": "OBJECTIONS",
+        "Role": null
+      }
+    },
+    {
+      "Beth incoming Calls": {
+        "value": null,
+        "focus": "Beth  ",
+        "source": "HOOKS",
+        "Role": "DISOVERY calls "
+      }
+    },
+    {
+      "Total Calls": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Call Booked": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Conversion": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Discovery Call Delivered": {
+        "value": null,
+        "focus": "Tracy+Paula",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Paid Virtual Delivered": {
+        "value": null,
+        "focus": "Paula",
+        "source": null,
+        "Role": "innocare"
+      }
+    },
+    {
+      "Virtual Revenue": {
+        "value": null,
+        "focus": "Beth",
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "$$/Visit": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Conversion.1": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "In-Person Visit": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "MD F/U post  VV tx calls": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "PT Total Revenue": {
+        "value": 30394,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Ax": {
+        "value": 45,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Tx": {
+        "value": 273,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Ax": {
+        "value": 11,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "% of Total Ax (AHS)": {
+        "value": 0.2444444444,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Tx (Total)": {
+        "value": 37,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS \nAx (Hip&Knee Class)": {
+        "value": 2,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT AHS Tx (Hip&Knee Class)": {
+        "value": 6,
+        "focus": "AHS",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg)": {
+        "value": 6.066666667,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Available appts": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Estimate",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total Available Hours \n(Total)": {
+        "value": 273.5,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total Available Hours \n(PT only)": {
+        "value": 139.25,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Total BOOKED hours": {
+        "value": 138,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PT Arrived appts": {
+        "value": 329,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization (With Kines)": {
+        "value": 0.5045703839,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization (Without Kines)": {
+        "value": 0.9910233393,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "PT TP Given": {
+        "value": 38.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization": {
+        "value": 0.8444444444,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "RMT Total Revenue": {
+        "value": 775.5,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT \nAx": {
+        "value": 2,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT \nTx": {
+        "value": 5,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).1": {
+        "value": 2.5,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Hours Available": {
+        "value": 8,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT BOOKED hours": {
+        "value": 8.75,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT Arrived slots": {
+        "value": 7,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization": {
+        "value": 1.09375,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "RMT TP Given": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization.1": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "CHIRO \nTotal Revenue": {
+        "value": 5649.9,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO\nAx": {
+        "value": 6,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO\nTx": {
+        "value": 54,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).2": {
+        "value": 9,
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Chiro Hours Available": {
+        "value": 35.25,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Chiro BOOKED hours": {
+        "value": 30.75,
+        "focus": "Caseload",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO Arrived slots": {
+        "value": 62,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Utilization.1": {
+        "value": 0.8723404255,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "CHIRO TP Given": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "TP Utilization.2": {
+        "value": 0.0,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Pelvic Health\nTotal Revenue": {
+        "value": 1215,
+        "focus": "Financial",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pelvic Health\nAx": {
+        "value": 4,
+        "focus": "Marketing",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "Pelvic Health\nTx": {
+        "value": 6,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": "J"
+      }
+    },
+    {
+      "PVA \n(4 wk avg).3": {
+        "value": "#REF!",
+        "focus": "Commitment",
+        "source": "Formula",
+        "Role": "J"
+      }
+    },
+    {
+      "True PVA Average": {
+        "value": 5.929824561,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "Utilization.2": {
+        "value": 0.8235536031,
+        "focus": null,
+        "source": null,
+        "Role": null
+      }
+    },
+    {
+      "PVA AVERAGE": {
+        "value": null,
+        "focus": null,
+        "source": null,
+        "Role": " "
+      }
+    },
+    {
+      "Pelvic Health Available slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Pelvic Health Arrived slots": {
+        "value": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "Role": null
+      }
+    },
+    {
+      "Utilization.3": {
+        "value": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "Role": null
+      }
+    }
+  ]
+}
