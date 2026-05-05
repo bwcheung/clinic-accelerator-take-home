@@ -3,9 +3,10 @@
 note: I added a convert2.py as a sample of using only openpyxl to preserve some cell formatting. 
 
 ## How to run (Python 3.13.9)
-  1. clone repo and cd into the folder using a termainl
-  2. run in terminal: pip install -r requirements.txt
-  3. run in terminal: python3 convert.py
+  1. Download python on your device if needed from the official site https://www.python.org/downloads/
+  2. clone repo and cd into the folder using a terminal
+  3. run in terminal: pip install -r requirements.txt
+  4. run in terminal: python3 convert.py
 
 ## JSON format example
 I chose this format because it seemed to me that each header has 4 properties that we would want to track. Also if we would want to add more information to the headers like maybe a target value, we can just add it in.
